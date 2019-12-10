@@ -1,0 +1,52 @@
+body {
+    background-color: #b3d7e5;
+    font-family: sans-serif;
+}
+
+.titulo2 {
+
+background-color: hsl(198, 50%, 50%);
+font-size: 25pt;
+}
+
+.titulo1 {
+
+text-transform: uppercase;
+text-decoration: underline;
+text-align: center;
+font-size: 37pt;
+
+}
+
+.cursiva {
+
+    font-style: italic;
+
+}
+
+.parrafo {
+
+text-align: justify;
+
+}
+
+.titulo3 {
+
+color: white;
+background-color: hsl(198, 50%, 50%);
+font-size: 17pt;
+
+}
+
+.pre1 {
+
+    background-color: white;
+
+}
+
+.address1 {
+
+text-align: right;
+font-size: 12pt;
+
+}
